@@ -24,5 +24,5 @@ public class Professor extends Faculty{
 		Admission_Classes d  =  new Admission_Classes();
 		d.msg();
 	}
-
+//This is the main class
 }
