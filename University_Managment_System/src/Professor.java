@@ -24,5 +24,8 @@ public class Professor extends Faculty{
 		Admission_Classes d  =  new Admission_Classes();
 		d.msg();
 	}
-//This is the main class
+//Changes in Professor.java as ading few comments
+//Muhammad Fahad Siddiqui
+// 2019-SE-206
+
 }
